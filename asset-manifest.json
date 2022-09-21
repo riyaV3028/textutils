@@ -1,15 +1,15 @@
 {
-  "main.css": "/textutils/static/css/main.212687d4.chunk.css",
-  "main.js": "/textutils/static/js/main.c0744e0d.chunk.js",
-  "main.js.map": "/textutils/static/js/main.c0744e0d.chunk.js.map",
-  "static/js/1.c972895f.chunk.js": "/textutils/static/js/1.c972895f.chunk.js",
-  "static/js/1.c972895f.chunk.js.map": "/textutils/static/js/1.c972895f.chunk.js.map",
-  "static/js/2.d3687133.chunk.js": "/textutils/static/js/2.d3687133.chunk.js",
-  "static/js/2.d3687133.chunk.js.map": "/textutils/static/js/2.d3687133.chunk.js.map",
-  "runtime~main.js": "/textutils/static/js/runtime~main.630f10c0.js",
-  "runtime~main.js.map": "/textutils/static/js/runtime~main.630f10c0.js.map",
-  "static/css/main.212687d4.chunk.css.map": "/textutils/static/css/main.212687d4.chunk.css.map",
-  "index.html": "/textutils/index.html",
-  "precache-manifest.d5e1d6f61158df0a9910622d90fc6680.js": "/textutils/precache-manifest.d5e1d6f61158df0a9910622d90fc6680.js",
-  "service-worker.js": "/textutils/service-worker.js"
+  "main.css": "/TextUtils-React/static/css/main.212687d4.chunk.css",
+  "main.js": "/TextUtils-React/static/js/main.c0744e0d.chunk.js",
+  "main.js.map": "/TextUtils-React/static/js/main.c0744e0d.chunk.js.map",
+  "static/js/1.c972895f.chunk.js": "/TextUtils-React/static/js/1.c972895f.chunk.js",
+  "static/js/1.c972895f.chunk.js.map": "/TextUtils-React/static/js/1.c972895f.chunk.js.map",
+  "static/js/2.d3687133.chunk.js": "/TextUtils-React/static/js/2.d3687133.chunk.js",
+  "static/js/2.d3687133.chunk.js.map": "/TextUtils-React/static/js/2.d3687133.chunk.js.map",
+  "runtime~main.js": "/TextUtils-React/static/js/runtime~main.96db2550.js",
+  "runtime~main.js.map": "/TextUtils-React/static/js/runtime~main.96db2550.js.map",
+  "static/css/main.212687d4.chunk.css.map": "/TextUtils-React/static/css/main.212687d4.chunk.css.map",
+  "index.html": "/TextUtils-React/index.html",
+  "precache-manifest.c2e77cba206aa9a505a8259f5f3930b0.js": "/TextUtils-React/precache-manifest.c2e77cba206aa9a505a8259f5f3930b0.js",
+  "service-worker.js": "/TextUtils-React/service-worker.js"
 }
